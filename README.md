@@ -27,14 +27,14 @@ Our first prophecy had **75% accuracy** – good, but not magical enough!
 ## 🎩 Magical Artifacts  
 
 ### 📉 The K-Chart of Destiny  
-![Error Rate vs K Value]
+Error Rate vs K Value
 
 (<img width="588" height="401" alt="Plot" src="https://github.com/user-attachments/assets/23c4be87-3cb0-40dd-a82e-135faaf67bfa" />)  
 
 *We found the sweet spot where K=30 makes the error rate tremble!*  
 
 ### ⚖️ The Scale of Justice  
-![Scaled Features]
+Scaled Features
 
 (<img width="687" height="175" alt="Scaled Features" src="https://github.com/user-attachments/assets/7e1bf5df-ce5a-4cb0-9bcd-ee4e5207e2d2" />)  
 
